@@ -1,0 +1,14 @@
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\bin\Debug\net9.0\Conversor de Divisas.exe
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\bin\Debug\net9.0\Conversor de Divisas.deps.json
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\bin\Debug\net9.0\Conversor de Divisas.runtimeconfig.json
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\bin\Debug\net9.0\Conversor de Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\bin\Debug\net9.0\Conversor de Divisas.pdb
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.AssemblyInfoInputs.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.AssemblyInfo.cs
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.csproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\refint\Conversor de Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.pdb
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\Conversor de Divisas.genruntimeconfig.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Divisas\obj\Debug\net9.0\ref\Conversor de Divisas.dll

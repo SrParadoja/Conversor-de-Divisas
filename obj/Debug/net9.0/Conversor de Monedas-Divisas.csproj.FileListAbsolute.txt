@@ -1,0 +1,14 @@
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\bin\Debug\net9.0\Conversor de Monedas-Divisas.exe
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\bin\Debug\net9.0\Conversor de Monedas-Divisas.deps.json
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\bin\Debug\net9.0\Conversor de Monedas-Divisas.runtimeconfig.json
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\bin\Debug\net9.0\Conversor de Monedas-Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\bin\Debug\net9.0\Conversor de Monedas-Divisas.pdb
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.AssemblyInfoInputs.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.AssemblyInfo.cs
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.csproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\refint\Conversor de Monedas-Divisas.dll
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.pdb
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\Conversor de Monedas-Divisas.genruntimeconfig.cache
+C:\Users\josea\OneDrive\Escritorio\Conversor de Monedas-Divisas\obj\Debug\net9.0\ref\Conversor de Monedas-Divisas.dll
